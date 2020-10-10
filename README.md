@@ -1,8 +1,6 @@
 # nuxt-queencuest
 购物系统
 
-# nuxt-saear
-
 > My remarkable Nuxt.js project
 
 ## Build Setup
