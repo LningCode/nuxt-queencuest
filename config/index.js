@@ -2,11 +2,11 @@ import { NODE_ENV } from './environment'
 const config = {
     development: {
         server: {
-            port: 3030,
+            port: 3001,
             host: 'localhost'
         },
         baseUrl: {
-            domain: 'http://localhost:3030/api/',
+            domain: 'http://localhost:3001/api/',
             phpDomain: 'http://elanmai.com/api.php?c=',
             imagePath: '',
             chatDomain: ''
@@ -22,11 +22,11 @@ const config = {
     },
     production: {
         server: {
-            port: 3030,
+            port: 3001,
             host: '127.0.0.1'
         },
         baseUrl: {
-            domain: 'http://localhost:3030/api/',
+            domain: 'http://localhost:3001/api/',
             phpDomain: 'http://elanmai.com/api.php?c=',
             imagePath: '',
             chatDomain: ''
