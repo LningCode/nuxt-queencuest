@@ -26,7 +26,7 @@ const config = {
             host: '127.0.0.1'
         },
         baseUrl: {
-            domain: 'http://localhost:3001/api/',
+            domain: 'http://45.77.135.130:3001/api/',
             phpDomain: 'http://elanmai.com/api.php?c=',
             imagePath: '',
             chatDomain: ''
