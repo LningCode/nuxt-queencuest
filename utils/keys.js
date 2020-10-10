@@ -1,0 +1,7 @@
+export default {
+    TOKEN: 'TOKEN',
+    USERINFO: 'USERINFO',
+    COOKIEAGREEMENT: 'COOKIEAGREEMENT',
+    LANGUAGE: 'LANGUAGE',
+    _MUNENAV_: '_MUNENAV_'  
+}
